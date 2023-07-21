@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "flutter_go_router",
+    "package_name": "com.rhnzal.aplikasijajantengan",
+    "sha256_cert_fingerprints":
+    ["93:89:2F:A5:E1:AC:28:75:72:9A:F9:C6:28:B7:5F:C2:8B:71:03:59:C6:83:21:8D:BD:F6:FC:FF:E0:B6:3C:B5"]
+  }
+}]
