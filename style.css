@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  /* display: inline; */
+}
+
+.img-badge {
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+}
+
+.img-badge img {
+  margin: 0 auto;
+}
