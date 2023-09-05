@@ -18,3 +18,8 @@ html * {
   height: auto;
   margin: 0 auto;
 }
+
+.img-badge ::selection{
+  color: none;
+  background: none;
+}
