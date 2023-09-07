@@ -16,6 +16,7 @@ p {
   background-color: white;
   margin: 0;
   padding: 0;
+  /* margin-bottom: 16px; */
   box-shadow: 0px 2px 6px #DADEE2;
 }
 
@@ -28,7 +29,7 @@ p {
 }
 
 /* Title */
-.title-2 {
+.slogan {
   font-weight: 500;
   margin-top: 32px;
   margin-bottom: 16px;
@@ -38,10 +39,11 @@ p {
 
 /* Logo */
 .logo {
+  /* display: inline-block; */
   height: 128px;
   width: 128px;
-  background-color: #D0CFCF;
-  margin: auto;
+  /* background-color: #D0CFCF; */
+  margin: 16px auto auto auto;
   border-radius: 8px;
   /* align-items: center; */
 }
