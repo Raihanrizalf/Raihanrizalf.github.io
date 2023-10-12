@@ -1,9 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { 
-    "namespace": "android_app", 
-    "package_name": "com.rhnzal.aplikasijajantengan",
-    "sha256_cert_fingerprints":
-    ["93:89:2F:A5:E1:AC:28:75:72:9A:F9:C6:28:B7:5F:C2:8B:71:03:59:C6:83:21:8D:BD:F6:FC:FF:E0:B6:3C:B5"] 
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.kalanusa.borongan",
+      "sha256_cert_fingerprints":
+      [
+        "93:89:2F:A5:E1:AC:28:75:72:9A:F9:C6:28:B7:5F:C2:8B:71:03:59:C6:83:21:8D:BD:F6:FC:FF:E0:B6:3C:B5",
+        "68:53:21:49:D1:C5:1D:F1:FB:9A:F9:24:91:23:73:8F:EE:73:DA:96:47:0C:D7:62:86:2C:21:5C:A5:9C:55:2C",
+        "96:51:57:D2:84:CE:5F:9E:66:34:C3:BF:8A:C1:DC:F7:E5:21:08:8A:5E:7F:B3:E3:D1:10:FA:5D:A7:B5:9D:52"
+      ]
+    }
   }
-}]
+]
