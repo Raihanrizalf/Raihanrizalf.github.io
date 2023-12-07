@@ -11,5 +11,16 @@
         "96:51:57:D2:84:CE:5F:9E:66:34:C3:BF:8A:C1:DC:F7:E5:21:08:8A:5E:7F:B3:E3:D1:10:FA:5D:A7:B5:9D:52"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.uni_link_test",
+      "sha256_cert_fingerprints":
+      [
+        "82:27:F2:4B:50:CA:F4:C8:EE:DA:DF:F6:3B:F9:FC:63:C2:6E:60:5C:43:41:BC:FF:54:60:08:90:EE:73:09:C4"
+      ]
+    }
   }
 ]
