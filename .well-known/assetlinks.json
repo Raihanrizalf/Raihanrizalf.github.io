@@ -3,23 +3,10 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "id.kalanusa.borongan",
+      "package_name": "com.example.flutter_getx",
       "sha256_cert_fingerprints":
       [
-        "93:89:2F:A5:E1:AC:28:75:72:9A:F9:C6:28:B7:5F:C2:8B:71:03:59:C6:83:21:8D:BD:F6:FC:FF:E0:B6:3C:B5",
-        "68:53:21:49:D1:C5:1D:F1:FB:9A:F9:24:91:23:73:8F:EE:73:DA:96:47:0C:D7:62:86:2C:21:5C:A5:9C:55:2C",
-        "96:51:57:D2:84:CE:5F:9E:66:34:C3:BF:8A:C1:DC:F7:E5:21:08:8A:5E:7F:B3:E3:D1:10:FA:5D:A7:B5:9D:52"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.uni_link_test",
-      "sha256_cert_fingerprints":
-      [
-        "82:27:F2:4B:50:CA:F4:C8:EE:DA:DF:F6:3B:F9:FC:63:C2:6E:60:5C:43:41:BC:FF:54:60:08:90:EE:73:09:C4"
+        "D3:A9:F3:AD:64:0B:AC:3B:D5:0C:1A:BD:C8:B8:19:A1:C3:A2:98:90:04:E4:FD:33:DD:53:6C:63:98:AA:51:EA"
       ]
     }
   }
